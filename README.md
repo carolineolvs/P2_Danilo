@@ -150,8 +150,4 @@ VALUES ('Matemática', 'João Silva', 60);
 
 ## 👩‍💻 **Autor**
 
-*Caroline — FATEC Matão*
-
----
-
-Se quiser adicionar prints, explicações mais detalhadas ou diagrama de classes, posso incluir também!
+*Caroline Oliveira Silva — FATEC Matão
